@@ -20,4 +20,12 @@ https://github.com/
 
 Search for "policy-prototype" and it should come up. Poke around
 and see if you can figure out how to download it. Bonus points for
-actually "cloning the repo" onto the laptop! 
+actually "cloning the repo" onto the laptop!
+
+If you actually start getting carried away with this stuff I'll
+show you how to interact with git in a basic way. This is neat 
+because then we can work together on projects and I can more easily
+see your code so I can be of better help. Always feel free to ping
+me with questions, I love this shit. 
+
+
